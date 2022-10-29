@@ -5,10 +5,13 @@
   - Discovering vulnerabilities in sytems
   - Creating microcontroller programs
   - How Linux commands/directories/codes operate
+  - Learning as much coding as I can to assist me in the above.
+
   
   
 - 🌱 I’m currently learning ...
   - Linux offensive security/pentesting
+  - C++, Python, .NET, Linux environment, etc..
   
   
 - 💞️ I’m looking to collaborate on ...
@@ -17,8 +20,3 @@
   
 - 📫 How to reach me ...
   - I'll reach you. :)
-
-<!---
-thepiesauce/thepiesauce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
